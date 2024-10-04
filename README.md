@@ -1,4 +1,4 @@
-Bu projede verilen ödevdeki gereksinimleri simule etmeye çalıştım.
+Bu projede verilen bir ödevdeki gereksinimleri simule etmeye çalıştım.
 
 Gereksinimler
 
